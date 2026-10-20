@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "plus-jakarta";
+  src: url(/fonts/PlusJakarta.ttf);
+  font-display: swap;
+}
+@font-face {
+  font-family: "NotoSansArabic";
+  src: url(/fonts/NotoSansArabic.ttf);
+  font-display: swap;
+}
+html[dir="ltr"] body {
+  font-family: "plus-jakarta" !important;
+}
+html[dir="rtl"] body {
+  font-family: "NotoSansArabic" !important;
+}
+
+html[dir="ltr"] .menu-arrow {
+  transform: rotate(0deg);
+}
+html[dir="rtl"] .menu-arrow {
+  transform: rotate(180deg) !important;
+}

@@ -1,0 +1,730 @@
+{
+  "header": {
+    "menu_description": "From bespoke software solutions to scalable applications, we pride ourselves on delivering excellence in every endeavor",
+    "services": {
+      "title": "Services",
+      "description": "Empowering Businesses Through Tailored Software Solutions: Crafting Innovation, Driving Success",
+      "digital": {
+        "title": "Digital",
+        "digital_consulting": "Digital Consulting & Strategy",
+        "website_design": "Website Design & Development",
+        "mobile_app": "Mobile Applications Design & Development",
+        "animation": "Animations",
+        "prototype_development": "Prototype Development",
+        "digital_marketing": "Digital Marketing"
+      },
+
+      "data_&_Ai": {
+        "title": "Data & AI",
+        "blockchain_app": "Blockchain App Development",
+        "cyber_security": "Cyber Security",
+        "business_analysis": "Business Analysis"
+      },
+      "cloud": {
+        "title": "Cloud",
+        "cloud_application": "Cloud Application Development"
+      },
+      "business_process_outsourcing": {
+        "title": "Business Process Outsourcing",
+        "creative_services": "Creative Services",
+        "resource_outsourcing": "Resource Outsourcing"
+      }
+    },
+    "expertise": {
+      "title": "Expertise",
+      "technology_stacks": "Technology Stacks"
+    },
+    "insight": {
+      "title": "Insight",
+      "news_&_events": "News & Events",
+      "brochures_&_profile": "Brochures and Profile"
+    },
+    "about": {
+      "title": "About",
+      "who_we_are": "Who We Are",
+      "licenses": "Licenses",
+      "our_global": "Our Global Presence",
+      "ngc_careers": "NGEN Careers"
+    },
+    "work": {
+      "title": "Work",
+      "projects": "Projects",
+      "our_products": "Our Products"
+    }
+  },
+  "home": {
+    "home_emp_business": "Empowering Businesses with Cutting-Edge Technologies!",
+    "driving_growth": "Driving growth and molding the future through transformative change",
+    "get_in_touch": "GET IN TOUCH",
+    "services": {
+      "title": "Service",
+      "empowering_clients": "Empowering our worldwide clients to adopt modern technology,rethink processes, and elevate experiences.",
+      "digital": {
+        "title": "Digital",
+        "description": "we specialize in providing extensive digital services tailored to meet the unique needs of our clients. Our range of digital services encompasses web and mobile app development, software solutions, digital marketing, e-commerce platforms, and IT consulting."
+      },
+      "data_&_ai": {
+        "title": "Data & AI",
+        "description": "From developing custom AI algorithms to implementing scalable data infrastructure, we offer end-to-end solutions. Our services include data analytics, machine learning, artificial intelligence, data visualization, and predictive modeling."
+      },
+      "branding": {
+        "title": "Branding",
+        "description": "Our branding services include logo design, brand strategy development, brand messaging, visual identity creation, and brand guidelines. We work closely with our clients to understand their unique brand vision and target audience, ensuring that every aspect of the branding process aligns with their business objectives."
+      }
+    },
+
+    "location": {
+      "pakistan": "Pakistan",
+      "saudi_arabia": "Saudi Arabia",
+      "uae": "United Arab Emirates",
+      "uk": "United Kingdom",
+      "our_features": "OUR FEATURED INSIGHT",
+      "devlivering": "Delivering Excellence Worldwide:",
+      "from_uk": "From the UK to the USA, Saudi Arabia to Dubai, and Pakistan, our services reach every corner of the globe.",
+      "from_peshawar": "From Peshawar to the world stage: Our journey began as a small software operating house in Pakistan, and now we proudly deliver our top services worldwide."
+    },
+    "performance": {
+      "title": "Translating technology into a positive impact",
+      "description": "Our approach allows us to deliver exceptional experiences that drive growth and success for all stakeholders. Let’s rise to new heights with the power of digital transformation.",
+      "progress": {
+        "achivement_1": {
+          "title": "7+",
+          "description": "Years of continual excellence"
+        },
+        "achivement_2": {
+          "title": "70+",
+          "description": "Change makers driving revolution"
+        },
+        "achivement_3": {
+          "title": "5+",
+          "description": "Countries with our presence and clientele"
+        },
+        "achivement_4": {
+          "title": "20+",
+          "description": "Active clients across the globe"
+        }
+      }
+    },
+    "digital_transformation": {
+      "text": "As a leading digital transformation consulting company, we continually reinvent our dynamic approach to drive change and shape the future of organizations.",
+      "achivement_1": {
+        "title": "70+",
+        "description": "Digitally modernized enterprises"
+      },
+      "achivement_2": {
+        "title": "15+",
+        "description": "Organizations empoweredthrough omnichannel experience"
+      },
+      "achivement_3": {
+        "title": "20+",
+        "description": "Design-led approaches implemented"
+      }
+    },
+    "our_clients": {
+      "title": "Our Clients",
+      "description": "We rethink business growth for you through our collective experience with strategic partner ecosystem."
+    }
+  },
+  "technology_stack": {
+    "title": "Technology Stack",
+    "front_end": "Front End",
+    "back_end": "Back End",
+    "database": "Database",
+    "infrastructure": "Infrastructure",
+    "android": "Andriod",
+    "ios": "IOS",
+    "cross_plateform": "Cross Platform",
+    "presentation": "Presentation",
+    "animation": "Animations 2D 3D",
+    "animation_tools": "Animation Tools",
+    "motion_graphics": "Motion Graphics",
+    "tech_stack_web": "Tech Stack- Web Development",
+    "tech_stack_mobile": "Teck Stack - Mobile Application Development",
+    "tech_stack_animation_presentation": "Teck Stack - Animations & Presentations"
+  },
+  "help": {
+    "title": "How can we help you?",
+    "description": "Are you ready to push boundaries and explore new frontiers of innovation?",
+    "contact_us": "Contact Us"
+  },
+  "footer": {
+    "company": {
+      "title": "Company",
+      "who_we_are": "Who We Are",
+      "global_presence": "Our Global Presence",
+      "ngc_careers": "NGEN Careers",
+      "brouchers_profile": "Brouchers and Profile",
+      "privacy": "Privacy Policy"
+    },
+    "follow_us": {
+      "title": "Follow Us"
+    },
+    "copy_right": "©2012 Next Generation Circle . All Rights Reserved"
+  },
+  "digital_consultancy": {
+    "title": "DIGITAL CONSULTANCY & STRATEGY",
+    "digital_transformation": {
+      "title": "Digital Transformation",
+      "description_1": "Next Generation Circle empowers businesses to embrace innovation and thrive in the digital age. We provide comprehensive strategies to seamlessly integrate advanced technologies into your operations, enhancing efficiency, productivity, and customer engagement.",
+      "description_2": "Our expert consultants work closely with you to understand your unique challenges and goals, crafting tailored solutions that drive measurable results.",
+      "description_3": "From modernizing legacy systems to implementing cutting-edge digital tools, we ensure your organization is equipped to navigate the complexities of the digital landscape and stay ahead of the competition."
+    },
+    "esg_environmental": {
+      "title": "ESG – Environmental, Social and Governance",
+      "description_1": "At Next Generation Circle, we understand the growing importance of integrating Environmental, Social, and Governance (ESG) considerations into business strategies. Our ESG consultancy services help organizations navigate the complexities of sustainable and responsible business practices. We provide comprehensive assessments and tailored solutions to enhance your ESG performance, ensuring compliance with regulatory requirements and alignment with global standards.",
+      "description_2": "By leveraging advanced digital tools and data analytics, we offer insights that drive meaningful improvements in sustainability, social impact, and corporate governance. Partner with us to build a resilient and ethically sound organization that meets the expectations of stakeholders and contributes positively to the world."
+    }
+  },
+  "website_design": {
+    "title": "WEBSITE DESIGN & DEVELOPMENT",
+    "stay_ahad": {
+      "title": "Stay Ahead with Modern Web Solutions",
+      "description_1": "As the rate of technological advancement accelerates, the need to continually evolve your web platforms and frameworks becomes crucial. We offer future-focused Web Development, Legacy System Integration, and Platform Migration services that enable you to respond swiftly to market conditions and drive growth.",
+      "description_2": "By leveraging responsive design, scalable architectures, Cloud-Native development, Agile methodologies, and DevOps best practices, we help clients across various industries and business types maximize ROI on digital transformation initiatives while minimizing risks.",
+      "description_3": " Our offerings are:",
+      "li_1": "Legacy System Integration",
+      "li_2": "Platform Migration Services",
+      "li_3": "Scalable Architectures",
+      "li_4": "Cloud-Native Development",
+      "li_5": "Agile Methodologies",
+      "li_6": "DevOps Best Practices",
+      "li_7": "SEO and Performance Optimization",
+      "li_8": "Content Management Systems (CMS)",
+      "li_9": "Analytics and Reporting"
+    },
+    "showcasing": {
+      "title": "Showcasing the Excellence:",
+      "websites_crafted": {
+        "title": "Websites We’ve Crafted for Our Clients",
+        "description": "Explore our developed websites to see how we transform visions into engaging, high-performing websites that stand out in the digital landscape."
+      }
+    }
+  },
+  "mobile_app": {
+    "title": "MOBILE APPLICATION DESIGN & DEVELOPMENT",
+    "stay_ahad": {
+      "title": "Stay Ahead with Innovative Mobile Applications",
+      "description_1": "At NEXT GENERATION CIRCLE, our Mobile Application Design and Development services are dedicated to bringing your app ideas to life with innovation and precision. We specialize in creating user-centric, high- performance mobile applications that cater to various platforms, including iOS and Android.",
+      "description_2": "Our expert team combines cutting-edge design principles with robust development practices to ensure your app delivers seamless functionality and exceptional user experience. From initial concept to final deployment, we work closely with you to develop mobile solutions to, enhance productivity, and elevate your brand in the competitive mobile landscape.",
+      "description_3": " Our offerings are:",
+      "li_1": "Innovative Mobile App Design",
+      "li_2": "Cross-Platform Development",
+      "li_3": "Native App Development",
+      "li_4": "Agile Development Methodologies",
+      "li_5": "API Integration",
+      "li_6": "Quality Assurance and Testing",
+      "li_7": "App Store Deployment",
+      "li_8": "Maintenance and Support",
+      "li_9": "Custom Features and Functionality",
+      "li_10": "User Engagement and Analytics"
+    },
+    "showcasing": {
+      "title": "Showcasing the Excellence:",
+      "mobile_crafted": {
+        "title": "Mobile Apps We’ve Crafted for Our Clients",
+        "description": "Explore our developed websites to see how we transform visions into engaging, high-performing websites that stand out in the digital landscape."
+      }
+    }
+  },
+  "animation": {
+    "title": "ANIMATIONS & PRESENTATIONS",
+    "transforming_vision": {
+      "title": "Transforming Vision into Motion",
+      "description_1": "At NEXT GENERATION CIRCLE, our Animations service brings your digital content to life with captivating and dynamic visuals. We specialize in creating high-quality animations that enhance user engagement, convey complex ideas clearly, and add a compelling layer to your brand storytelling. From explainer videos and product demos to interactive web animations and immersive user interfaces, our skilled team uses the latest tools and techniques to deliver animations that are not only visually stunning but also aligned with your strategic goals.",
+      "description_2": "Let us help you transform your vision into motion and captivate your audience with unforgettable animated experiences."
+    },
+    "evisually_content": {
+      "title": "EVisually Stunning Content & Impactful Presentations",
+      "description_1": "We are dedicated to producing visually stunning content and impactful presentations that captivate your audience. Our team of skilled designers and storytellers combines cutting-edge technology with creative ingenuity to craft presentations that not only look amazing but also deliver your message with clarity and impact.",
+      "description_2": "Whether it's for a critical business meeting, a high-stakes pitch, or a captivating marketing campaign, our presentations are designed to engage, inform, and inspire. Experience the power of visual storytelling with our expertly crafted content that leaves a lasting impression and drives results."
+    }
+  },
+  "prototype_development": {
+    "title": "PROTOTYPE DEVELOPMENT",
+    "translate_imagination": {
+      "title": "Lets translate your imagination to reality",
+      "description": "With our prototype development services, you can confidently move forward with your project, knowing that you have a well-defined and tested concept ready for the next stages of development. Let us help you transform your innovative ideas into reality with our expert prototyping solutions. At our company, we specialize in offering comprehensive prototype development services tailored to meet your specific needs. Whether you are looking to develop a web application, a mobile application, or other innovative digital solutions, our expert team is here to bring your vision to life."
+    },
+    "digital_solutions": "Explore Our Comprehensive Digital Solutions:",
+    "web_app_development": {
+      "title": "Web Application Development:",
+      "description": "Our web application prototype development service ensures that your ideas are transformed into functional and user-friendly web applications. We focus on creating interactive prototypes that showcase the core functionalities and user experience, allowing you to visualize and refine your web application before full-scale development. Our approach includes responsive design, seamless navigation, and robust performance, ensuring that the prototype effectively demonstrates the potential of your final product."
+    },
+    "mobile_app_development": {
+      "title": "Mobile Application Development:",
+      "description": "In the realm of mobile applications, our prototype development services are designed to help you create intuitive and engaging mobile experiences. We develop prototypes for both iOS and Android platforms, emphasizing a smooth and interactive user interface. By providing a tangible representation of your mobile app, we enable you to gather valuable feedback, make informed decisions, and streamline the development process. Our prototypes are equipped with essential features, ensuring that your mobile app is ready to meet user expectations and market demands."
+    },
+    "additional_services": {
+      "title": "Additional Services:",
+      "description": "Beyond web and mobile applications, our prototype development services extend to various other digital solutions. This includes desktop applications, IoT solutions, and enterprise software. We leverage the latest technologies and industry best practices to create prototypes that are not only functional but also scalable and future-proof. Our goal is to provide you with a solid foundation to validate your ideas, attract investors, and accelerate your product development lifecycle"
+    }
+  },
+  "digital_marketing": {
+    "title": "DIGITAL MARKETING",
+    "empower_brand": {
+      "title": "Empower Your Brand with Innovative Digital Marketing Solutions!",
+      "description": "Welcome to Next Generation Circle, where innovation meets strategy in the realm of digital marketing. Our digital marketing services are designed to elevate your brand, engage your audience, and drive measurable results. We blend creativity with cutting-edge technology to deliver a comprehensive suite of services tailored to meet your unique business needs."
+    },
+    "digital_marketing_services": "Our Digital Marketing Services:",
+    "search_engine_optimization": {
+      "title": "Search Engine Optimization (SEO)",
+      "description": "Increase your online visibility & drive organic traffic to your website with our SEO services. Our team employs advanced techniques and best practices to improve your search engine rankings, ensuring your brand reaches the top of search results."
+    },
+    "social_media_marketing": {
+      "title": "Social Media Marketing",
+      "description": "Engage and grow your audience on social media platforms. Our social media marketing services include content creation, community management, and targeted advertising to build brand loyalty and increase your reach."
+    },
+    "content_marketing": {
+      "title": "Content Marketing",
+      "description": "Tell your brand story & connect with your audience through compelling content. From blog posts and articles to videos and infographics, our content marketing services are designed to educate, entertain, and inspire your target market."
+    },
+    "email_marketing": {
+      "title": "Email Marketing",
+      "description": "Nurture leads and build lasting relationships with personalized email marketing campaigns. We design and execute email strategies that deliver value to your subscribers and keep your brand top of mind."
+    },
+    "analytics_&_reporting": {
+      "title": "Analytics and Reporting",
+      "description": "Make data-driven decisions with our detailed analytics and reporting services. We provide insights into your digital marketing performance, helping you understand what’s working and where there’s room for improvement."
+    },
+    "online_reputation": {
+      "title": "Online Reputation Management",
+      "description": "Protect and enhance your brand’s online reputation. We monitor and manage your online presence, addressing any negative feedback and promoting positive reviews to build trust and credibility."
+    }
+  },
+  "blockchain_app_development": {
+    "title": "BLOCKCHAIN APP DEVELOPMENT",
+    "blockchain_innovation": {
+      "title": "Leading the Way in Blockchain Innovation",
+      "description_1": "At NEXT GENERATION CIRCLE, our Blockchain App Development services are at the forefront of technological innovation, offering secure, transparent, and efficient solutions for your business needs. We specialize in creating blockchain applications that enhance trust, streamline processes, and provide robust security.",
+      "description_2": "Our expert team is adept at leveraging blockchain technology for a variety of applications, including smart contracts, decentralized finance (DeFi), supply chain management, and more. From conceptualization to deployment, we work closely with you to develop tailored blockchain solutions that drive growth, improve efficiency, and position your business as a leader in the digital economy."
+    },
+    "we_deliver": "What We Deliver",
+    "consulting_strategy": {
+      "title": "Consulting and Strategy:",
+      "li_1": "Evaluating whether blockchain technology is suitable for the client’s business needs.",
+      "li_2": "Identifying and defining specific blockchain use cases that align with the client’s objectives",
+      "li_3": "Offering expert advice on blockchain technology, platforms, and best practices."
+    },
+    "custom_blockchain_development": {
+      "title": "Custom Blockchain Development:",
+      "li_1": "Smart Contract Development: Writing, testing, and deploying smart contracts on various blockchain platforms like Ethereum, Binance Smart Chain, or Hyperledger.",
+      "li_2": "Decentralized Application (DApp) Development: Building and deploying decentralized applications tailored to the client’s requirements.",
+      "li_3": "Blockchain Integration: Integrating blockchain solutions with existing solutions"
+    }
+  },
+  "cyber_security": {
+    "title": "CYBER SECURITY",
+    "blockchain_innovation": {
+      "title": "Leading the Way in Blockchain Innovation",
+      "description_1": "At Next Generation Circle, we understand that in today’s digital age, safeguarding your data and systems from cyber threats is paramount. Our comprehensive Cybersecurity services are designed to protect your organization from an array of cyber risks, including malware, phishing attacks, and data breaches. Leveraging state-of-the-art technology & industry best practices, our expert team provides robust security solutions tailored to your specific needs.",
+      "description_2": "From proactive threat detection and response to continuous monitoring and risk assessment, we ensure your digital assets remain secure. Trust Next Generation Circle to fortify your defenses and maintain the integrity and confidentiality of your critical information"
+    },
+    "data_security": {
+      "title": "Empower Your Data Security with Cyber Security",
+      "li_1": "Advanced Threat Detection and Protection",
+      "li_2": "Real-Time Monitoring of Network Activities",
+      "li_3": "Proactive Risk Management and Mitigation",
+      "li_4": "Regular Security Audits and Assessments",
+      "li_5": "Encryption of Sensitive Data",
+      "li_6": "Firewall and Intrusion Prevention Systems",
+      "li_7": "Secure Access Controls and Authentication",
+      "li_8": "Cloud Security Solutions",
+      "li_9": "Third-Party Risk Management",
+      "li_10": "Security Information & Event Management (SIEM)"
+    }
+  },
+  "business_analysis": {
+    "title": "BUSINESS ANALYSIS",
+    "business_innovation": {
+      "title": "Empowering Your Business with Innovative Solutions",
+      "description_1": "At NEXT GENERATION CIRCLE, our Digital Consultancy and Strategies service is designed to empower your business with innovative solutions and forward-thinking strategies. Operating across four different countries, we leverage a global perspective to tailor digital strategies that meet your unique business needs.",
+      "description_2": "Our team of experts excels in analyzing market trends, optimizing digital operations, and crafting bespoke solutions that drive growth and enhance competitive advantage. Partner with us to transform your digital landscape, harness cutting-edge technologies, and achieve your strategic goals with confidence."
+    },
+    "optimize_business": {
+      "title": "We Optimize Your Business with Detailed Analysis",
+      "description": "Next Generation Circle offers a comprehensive suite of Business Analysis services designed to help your organization identify opportunities for growth, enhance operational efficiency, and achieve strategic objectives. Our expert team employs proven methodologies and advanced analytical tools to deliver insights and solutions tailored to your unique business needs."
+    },
+    "business_analysis_services": {
+      "title": "Unlock Success and Transformation with Our Business Analysis Services",
+      "li_1": "Comprehensive Requirements Gathering",
+      "li_2": "Process Mapping and Optimization",
+      "li_3": "Data Analysis and Reporting",
+      "li_4": "Feasibility Studies",
+      "li_5": "Solution Design and Implementation",
+      "li_6": "Stakeholder Engagement",
+      "li_7": "Risk Management",
+      "li_8": "Performance Monitoring and Evaluation",
+      "li_9": "Training and Support"
+    }
+  },
+  "cloud_application": {
+    "title": "CLOUD APPLICATION AND INTEGRATION",
+    "cloud_application_integration": {
+      "title": "Transform Your Business with Cloud Application and Integration",
+      "description_1": "At Next Generation Circle, we specialize in Cloud Application and Integration services designed to elevate your business operations to the next level. Our team of experts works closely with you to develop and integrate cloud-based applications that enhance efficiency, scalability, & flexibility. By leveraging cutting-edge cloud technologies, we ensure seamless integration with your existing systems, providing a cohesive and streamlined IT environment.",
+      "description_2": "Whether you’re looking to migrate to the cloud, develop new cloud-native applications, or integrate diverse cloud services, our tailored solutions are crafted to meet your unique business needs. Trust Next Generation Circle to transform your IT infrastructure with innovative cloud solutions that drive growth and operational excellence."
+    },
+    "data_cloud": "By the year 2025, there’s projected to be over 100 zettabytes of data in the Cloud. One zettabyte is equal to a trillion gigabytes.",
+    "what_we_provide": "What We Provide:"
+  },
+  "creative_services": {
+    "title": "CREATIVE SERVICES",
+    "articulate_visualize": {
+      "title": "You say and we will articulate and visualize",
+      "description": "Creative services play a pivotal role in helping organizations stand out in a competitive market. We at NGEN are keen to work with individuals and organizations to help them achieve their vision and goals by offering vast services."
+    },
+    "concept_note_writing": {
+      "title": "Concept Note Writing",
+      "description": "Our team of experienced professionals excels in concept note writing, ensuring that your ideas are clearly articulated and strategically aligned with your goals."
+    },
+    "compelling_proposal_writing": {
+      "title": "Compelling Proposal Writing",
+      "description": "We craft compelling proposal writing that not only highlights your strengths but also addresses the unique needs and expectations of your audience, increasing your chances of partnerships."
+    },
+    "persuasive_business_pitch_decks": {
+      "title": "Persuasive Business Pitch Decks",
+      "description": "We specialize in developing persuasive business pitch decks that capture attention, convey your vision effectively, and leave a lasting impression on potential investors and stakeholders."
+    },
+    "professional_presentation": {
+      "title": "Professional Presentations:",
+      "description": "Our creative services extend to creating professional presentations that are both visually appealing and content-rich. Whether you're preparing for a high-stakes business meeting, a conference, or an internal review, we ensure that your presentations are polished, coherent, and impactful."
+    },
+    "innovative_design": {
+      "title": "Innovative Design and Strategic Content Development:",
+      "description": "By integrating innovative design elements with strategic content development, we help you communicate your message with clarity and confidence, driving your business forward and achieving your objectives."
+    }
+  },
+  "resources_outsourcing": {
+    "title": "RESOURCES OUTSOURCING",
+    "momentum_achieve": {
+      "title": "Lets Work together to get momentum and achieve miles",
+      "description": "NGEN provides comprehensive resources outsourcing services to help businesses achieve their goals efficiently and effectively. Our team of highly skilled professionals is available to augment your existing workforce, bringing expertise in a wide range of technologies and disciplines. Whether you need specialized skills for a short-term project or long-term support, we’ve the right talent to meet your needs."
+    },
+    "comprehensive_resource": {
+      "title": "Comprehensive Resource Outsourcing Solutions",
+      "description": "Streamline your operations and enhance efficiency with our wide range of outsourcing services:"
+    },
+    "web_technologies": {
+      "title": "Web Technologies:",
+      "description": "Our experts are proficient in the latest web technologies, including JavaScript, HTML, CSS, React, Angular, and more. They can help you develop, maintain, and optimize your web applications, ensuring robust performance and seamless user experiences."
+    },
+    "mobile_technologies": {
+      "title": "Mobile Technologies:",
+      "description": "We offer skilled mobile developers proficient in both iOS and Android platforms. Whether you need native or cross-platform development, our team can create high-quality mobile applications tailored to your specific requirements."
+    },
+    "desktop_technologies": {
+      "title": "Desktop Technologies:",
+      "description": "Our desktop application developers are experienced in creating powerful and user-friendly applications for Windows, macOS, and Linux environments. They can handle everything from software design to implementation and maintenance."
+    },
+    "databases": {
+      "title": "Databases:",
+      "description": "Our database experts can assist you with database design, development, and management. They are well-versed in various database technologies, including SQL, NoSQL, MongoDB, MySQL, PostgreSQL, and more, ensuring your data is organised, secure, and accessible."
+    },
+    "cloud_deployment": {
+      "title": "Cloud Deployment:",
+      "description": "We provide cloud deployment services to help you leverage the power of cloud computing. Our team has expertise in major cloud platforms like AWS, Azure, and Google Cloud, and can assist with cloud architecture, migration, and management to optimize your operations and reduce costs."
+    },
+    "frontend_designing": {
+      "title": "Frontend Designing:",
+      "description": "Our frontend designers specialize in creating visually appealing and responsive user interfaces. They use the latest design principles and technologies to ensure that your applications are not only functional but also aesthetically pleasing."
+    },
+    "ui_ux": {
+      "title": "UI/UX:",
+      "description": "Our UI/UX experts focus on delivering exceptional user experiences. They conduct user research, create wireframes and prototypes, and design intuitive interfaces that enhance user satisfaction and engagement."
+    },
+    "project_management": {
+      "title": "Project Management:",
+      "description": "Our project managers are adept at overseeing software development projects from inception to completion. They ensure that projects are delivered on time, within scope, and on budget, using agile methodologies to manage resources and workflows effectively."
+    }
+  },
+  "technology_stack_page": {
+    "title": "TECHNOLOGY STACK",
+    "powering_solution": {
+      "title": "Powering Solutions with Top-Notch Tech",
+      "description": "We leverage a robust and versatile technology stack to deliver cutting-edge solutions tailored to your needs. Our expertise spans a wide range of advanced technologies, including modern programming languages, frameworks, cloud platforms, and data analytics tools. By utilizing the best-in-class technology, we ensure our solutions are scalable, secure, and efficient, empowering your business to stay ahead in the digital era."
+    }
+  },
+  "profile_brouchers": {
+    "title": "PROFILE AND BROCHURES",
+    "global_compliance": {
+      "title": "Global Compliance and Excellence: Our Company Licenses",
+      "description": "At Next Generation Circle, we uphold the highest standards of quality and compliance. Our extensive range of licenses across various countries ensures that we meet and exceed industry regulations and standards. These licenses reflect our commitment to excellence and our ability to deliver outstanding services globally."
+    },
+    "next_generation": "Next Generation Circle Pre-Qualification Document",
+    "newshunt_broucher": "Newshunt Brochure",
+    "nalyst_broucher": "Nalyst Brochure",
+    "qaaren_broucher": "Qaaren Brochure"
+  },
+  "news_events":{
+    "title":"News & Events",
+    "trending":"Trending",
+    "phones_computer_data":{
+      "title":"What the Arrival of A.I. Phones and Computers Means for Our Data",
+      "description_1":"Apple, Microsoft and Google are heralding a new era of what they describe as artificially intelligent smartphones and computers. The devices, they say, will automate tasks like editing photos and wishing a friend a happy birthday.",
+      "description_2":"In this new paradigm, your Windows computer will take a screenshot of everything you do every few seconds. An iPhone will stitch together information across many apps you use. And an Android phone can listen to a call in real time to alert you to a scam.....",
+      "time":"2 hours ago",
+      "time_news":"Time News - 2 Mints Read"
+    },
+    "it_news":"Browse More IT News",
+    "news_1":{
+      "title":"Artificial intelligence can run world ‘better than humans’..",
+      "description":"GENEVA: A panel of AI-enabled humanoid robots took the microphone on Friday at a United Nations conference with the message: they could eventually run the world better than humans. But the social robots said they felt humans.........",
+      "news_name":"DAWN News | 10 mints read",
+      "time":"2 hours ago",
+      "share":"72"
+    },
+    "news_2":{
+      "title":"Brazil demands Meta stop taking user data to train AI..",
+      "description":"Brazil on Tuesday demanded Meta cease taking users’ data to train its generative AI models, a move the US tech giant called “a setback.” The decision was issued by Brazil’s National Data Protection Authority, which warned it would .......",
+      "news_name":"Al | 2 min read",
+      "time":"2 hours ago",
+      "share":"72"
+    },
+    "news_3":{
+      "title":"Google parent in talks to buy cybersecurity startup Wiz for..",
+      "description":"Google parent Alphabet is in advanced talks to acquire cybersecurity startup Wiz for roughly $23 billion, a person familiar with the matter said on Sunday, in a deal that would represent the technology...",
+      "news_name":"Khaleej Times | 4 min read",
+      "time":"15 July 2024",
+      "share":"72"
+    },
+    "events":"Events",
+    "event_news_1":{
+      "month":"JUN",
+      "date":"14",
+      "title":"London Tech Week - FY 2024 United Kingdom ",
+      "description":"A Unique Tech Celebration with Immersive Content"
+    },
+    "event_news_2":{
+      "month":"MAY",
+      "date":"28",
+      "title":"Dublin Teck Summit 2024 RDS Dublin ",
+      "description":"Dublin Tech Summit (DTS) brings together global leaders in..."
+    },
+    "event_news_3":{
+      "month":"FEB",
+      "date":"26",
+      "title":"MWC Barcelona - A Unifying Event",
+      "description":"mobile technology ecosystem at the largest and most influential..."
+    },
+    "event_news_4":{
+      "month":"OCT",
+      "date":"14",
+      "title":"GITEX Global Dubai UAE",
+      "description":"The biggest tech & startup show in the world. Secure your s...... ..."
+    }
+
+  },
+  "download": "Download",
+  "who_we_are": {
+    "title": "WHO WE ARE",
+    "description_1": "Over the years, Next Generation Circle has evolved into a full-service IT solutions provider with a global presence, achieving growth through a blend of organic expansion and strategic acquisitions. Our team of seasoned experts prides itself on delivering affordable, cutting-edge technology solutions tailored to meet both your business and personal needs.",
+    "description_2": "From concept to execution, we specialize in software development and engineering, ensuring seamless integration of MIS development, mobile applications, decentralized mobile applications, data science-based solutions, and web applications.",
+    "description_3": "Experience unparalleled innovation and reliability with NEXT GENERATION CIRCLE, where every solution is crafted with precision and excellence. At Next Generation Circle, we are dedicated to transforming your ideas into reality with unmatched expertise and commitment to quality.",
+    "our_mission": {
+      "title": "Our Mission",
+      "description": "Our mission is to develop cutting-edge software solutions that drive business growth while prioritizing sustainability. We are committed to reducing our environmental impact, fostering a culture of innovation, and partnering with organizations to achieve their digital and ecological goals."
+    },
+    "our_vission": {
+      "title": "Our vission",
+      "description": "Our vision is to lead sustainable digital transformation by creating innovative software that empowers businesses and promotes environmental stewardship. We integrate sustainability into our operations, driving positive change and reducing our carbon footprint."
+    },
+    "our_team": {
+      "title": "OUR TEAM",
+      "description_1": "At Next Generation Circle, our team of skilled professionals brings a wealth of expertise and innovation to every project.",
+      "description_2": "We are committed to delivering exceptional IT solutions through collaboration and continuous improvement. Together, we drive our clients' success and push the boundaries of technological excellence."
+    },
+    "insights": {
+      "title": "INSIGHTS",
+      "description_1": "Explore our journey through these snapshots of innovation, collaboration, and success. Each image tells a story of our commitment to excellence and our drive to push the boundaries of technology.",
+      "description_2": "Discover how we bring ideas to life and create lasting impact."
+    }
+  },
+  "licenses": {
+    "title": "LICENSES",
+    "company_licenses": {
+      "title": "Global Compliance and Excellence: Our Company Licenses",
+      "description": "At Next Generation Circle, we uphold the highest standards of quality and compliance. Our extensive range of licenses across various countries ensures that we meet and exceed industry regulations and standards. These licenses reflect our commitment to excellence and our ability to deliver outstanding services globally."
+    },
+    "license_download_popup":{
+      "title":"Please share your email to receive this license",
+      "email_address":"Email Address",
+      "get_license":"Get license"
+    }
+  },
+  "our_global_presence": {
+    "title": "OUR GLOBAL PRESENCE",
+    "present_countries": {
+      "title": "We are present in 5 Countries across Six Continents",
+      "description": "Our global reach embodies a deep understanding of local business needs and practices, extending beyond products, technologies, and methodologies. With diverse teams across the globe, we swiftly adapt to different cultures, grasp local market dynamics, and tailor solutions to achieve the perfect balance between global strategy and local adaptation. This unique capability is a key reason why clients choose to partner with us, as we seamlessly integrate local insights with global expertise."
+    },
+    "pakistan": {
+      "title": "Pakistan",
+      "address_1": "Level 10, State life Building Peshawar Cantonment Mall Road Saddar",
+      "address_2": "Postal Address: 2500",
+      "contact": "+92 333 9479967"
+    },
+    "uae": {
+      "title": "UNITED ARAB EMIRATES",
+      "address_1": "Level 23, Boulevard Plaza Downtown Dubai UAE",
+      "address_2": "Postal Address: 00000",
+      "contact": "+971 52 850 1250"
+    },
+    "saudi_arabia": {
+      "title": "SAUDI ARABIA",
+      "address_1": "Al Rawab Building, Al Mursalat, Riyadh, Saudi Arabia",
+      "address_2": "Postal Address: 25000",
+      "contact": "+966 55 815 9071"
+    },
+    "united_kingdom": {
+      "title": "UNIKTED KINGDOM",
+      "address_1": "15 Metropolitan Court, 6 Hayling Way, Edgware, United Kingdom",
+      "address_2": "HA8 8BN",
+      "contact": "+44 7553 946688"
+    },
+    "global_rollouts": {
+      "title": "Your partner for Global Rollouts",
+      "description": "Businesses today are increasingly region-agnostic, and our global spread comes in handy. Multi-national organizations rely on us for global rollouts or for specific projects in other geographies."
+    }
+  },
+  "ngc_careers": {
+    "title": "CAREERS",
+    "description": "At Next Generation Circle, we believe in nurturing talent and empowering our team members to innovate and excel. As a leading IT solutions provider, we are committed to delivering cutting-edge technology solutions that drive business success for our clients worldwide.",
+    "join_team": "Join The Team",
+    "benefits": {
+      "title": "BENEFITS",
+      "join_global_team": {
+        "title": "Why you Should Join Our Global Team",
+        "description_1": "We foster a culture of creativity and collaboration, where every team member's ideas are valued and contributions are recognized.",
+        "description_2": "With a commitment to continuous learning and professional growth, we offer opportunities for career development through mentorship programs, training initiatives, and exposure to cutting-edge technologies.",
+        "description_3": "Our global impact extends beyond borders, as we collaborate on diverse projects that drive meaningful change in industries worldwide"
+      },
+      "innovative_work": {
+        "title": "Innovative Work Environment",
+        "description": "We foster a culture of collaboration and continuous learning to stay ahead in the rapidly evolving IT industry."
+      },
+      "life_balance": {
+        "title": "Work-Life Balance",
+        "description": "We value work-life balance and offer flexible work arrangements to support your personal and professional commitments."
+      },
+      "career_development": {
+        "title": "Career Development",
+        "description": "We offer opportunities for professional development and training programs, to help you achieve your career goals."
+      },
+      "global_impact": {
+        "title": "Global Impact",
+        "description": "Collaborate with diverse teams on impactful projects that shape the future of technology and business."
+      }
+    },
+    "come_join_us": {
+      "title": "COME JOIN US",
+      "career_openings": {
+        "title": "Career Openings",
+        "description": "We’re always looking for creative, talented self-starters to join the NGEN family. Check out our open roles below and fill out an application."
+      }
+    },
+    "stay_touch": {
+      "title": "Stay in Touch",
+      "li_1": "No current openings? Submit your CV to us, and we will keep it on file for future reference.",
+      "li_2": "We appreciate your interest in Next Generation Circle and look forward to connecting with you when suitable opportunities arise.",
+      "submit_cv": "Submit CV"
+    }
+  },
+  "our_products": {
+    "title": "Our products",
+    "description_1": "At Next Generation Circle, we are proud to offer a suite of five innovative products that are making a significant impact on a global scale. Each product is designed to address specific business challenges, leveraging cutting-edge technology and industry expertise to deliver exceptional results.",
+    "description_2": "Our diverse portfolio includes solutions for software development, data science, digital consultancy, and IT infrastructure, all crafted to meet the evolving needs of our clients. By combining advanced features with user-friendly interfaces, our products empower businesses to streamline operations, enhance productivity, and achieve their strategic goals.",
+    "leading_products": {
+      "title": "Explore Our Leading Products",
+      "description": "Explore our product offerings to discover how Next Generation Circle can drive your success in the digital age."
+    },
+    "news_hunt": {
+      "title": "NEWSHUNT",
+      "span": "NewsHunt",
+      "description_1": "serves as a comprehensive News Aggregator, extracting news from 200 countries & 485 newspapers, categorizing them in an intuitive manner. Currently offered in five languages- It also aggregates articles and opinions from various sources.",
+      "description_2": "With a continuously growing database, we presently feature 1.4 million news articles, 42,500 opinions/ articles, and involve 2,302 writers. Noteworthy as one of the pioneering news aggregators for the Kingdom of Saudi Arabia and the MENA region."
+    },
+    "nalyst": {
+      "title": "NALYST",
+      "span": "Nalyst",
+      "description_1": "is a News Analysis Platform that assesses global news through diverse. keywords, enabling analysts to add notes to each news item and organize them in to different folders.",
+      "description_2": "This tool proves invaluable for research organizations, think tanks, media departments, & government agencies seeking to monitor global media for specific areas of interest. Nalyst is available in 5 different languages English, Arabic, French, Urdu and Persian."
+    },
+    "qaaren": {
+      "title": "QAAREN",
+      "span": "Qaaren",
+      "description_1": "is Saudi's independent price comparison service with over 1000 products. Qaaren brings great offers every day and keep the prices updated on daily basis.",
+      "description_2": "Qaaren allows the user to customize products and compare prices at the same time, thus helping users in customizing shopping habits. Qaaren also predicts best time for buying a product."
+    },
+    "find_1": {
+      "title": "FIND - 1",
+      "span": "Find 1",
+      "description_1": "is an innovative Website & Mobile App meticulously crafted to offer comprehensive insights into schools, colleges, and universities across any city of Saudi Arabia. With it’s user-friendly interface and a variety of filters and options, users can easily explore institution’s information available.",
+      "description_2": "Additionally, Find1 goes beyond mere listings by providing detailed insights into the most sustainable institutes in Saudi Arabia, empowering users to make informed decisions. Available in both Arabic and English languages."
+    },
+    "tims": {
+      "title": "TMIS",
+      "span": "Training Managmenet Information System TMIS",
+      "description_1": "stands as a comprehensive solution crafted specifically for UNODC, addressing the intricate needs of managing various training programs. This integrated platform optimizes the utilization of resources throughout the training process, enhancing execution , monitoring, evaluation, and ultimately improving the overall learning outcomes.",
+      "description_2": "TMIS facilitates efficient coordination, tracking, & assessment of training activities, ensuring a streamlined and effective approach to capacity-building initiatives"
+    }
+  },
+  "our_projects": {
+    "title": "OUR PROJECTS",
+    "description_1": "From transformative software applications to advanced data science initiatives and robust IT infrastructure developments, our work demonstrates our expertise and dedication to driving success for our clients.",
+    "description_2": "Explore our projects to see how we bring visionary ideas to life and create lasting impact.",
+    "project_portfolio": "PROJECT PORTFOLIO",
+    "project_1": {
+      "title": "KP Culture and Tourism Authority",
+      "description": "NGEN collaborated with LMKT (PVT) Ltd. to develop a tourism-centric platform for KPCTA(KP Culture and Tourism   Authority), funded by ERKF(multi- donor funds) and the World Bank, aimed to promote tourism in KP.It’s accessible via web and  mobile applications, available on the Play Store and Apple Store."
+    },
+    "project_2": {
+      "title": "KP Investment Facilitation Center - KPIFC",
+      "description": "NGEN developed  KP  Investment  Facilitation  Center  -  KPIFC , meticulously for SMEDA. This  web portal  facilitates    people   in    seeking     insights   on    investment  opportunities,  connecting   with    Sarhad   Chamber    of Commerce members, departmental information, procedural guidance,  or  tailored assistance for business establishment."
+    },
+    "project_3": {
+      "title": "LMIS - Laboratory Information Management System",
+      "description": "NGEN developed LIMS (Laboratory Information  Management System) is the solution for Veterinary Research  Institute VRI, Peshawar KP, addressing the essential needs of   sample management, test results, vaccine stock, and research    data. With standardized workflows and procedures, it provides     control over operations and serves as a centralized platform     for various laboratory activities.."
+    },
+    "project_4": {
+      "title": "Device X",
+      "description": "NGEN developed  Device X,  an innovative online web portal and mobile application designed to securely store personal and device information, along with real-time feed &news updates.  By directly linking  each device's serial number to its owner, Device X facilitates quick and secure device returns in the event of loss or misplacement."
+    },
+    "project_5": {
+      "title": "WDE - Women Digital Empowerment",
+      "description": "NGEN collaborated   with   IM  Sciences  Institute IMS  Peshawar   to design    and   develop  the    Women Digital Empowerment (WDE) web platform.  This project was funded by Giz/GTZ, a German donor organization. The WDE platform aims to empower women through digital literacy and access to resources, furthering their participation in the digital economy."
+    },
+    "project_6": {
+      "title": "Directorate of Tourist Services MIS",
+      "description": "Directorate   of  Tourist  Service  Management  Information System (DTS MIS) is a  comprehensive   solution  designed  to streamline  operations  for both DTS staff & business ownersin Khyber Pakhtunkhwa. Developed by NGEN. thisend-to-end  system  empowers   DTS staff to efficiently issue new licenses to businesses  such as hotels, restaurants,  rent-a-cars, and travel agents. It also enables business owners to conveniently apply online for new licenses or renewals."
+    },
+    "project_7": {
+      "title": "AMZ Wordspy",
+      "description": "AMZ WordSpy is a powerful scraping tool designed and developed by a NGEN. for a Canadian startup,  to extract product data from Amazon's global platforms, including  those in the  US,  UK,  and  India.  By evaluating products based on specific parameters, it offers valuable insights to investors looking to establish & grow successful businesses on Amazon."
+    },
+    "project_8": {
+      "title": "Document Digitalization Software",
+      "description": "Document Digitalization Software  is  an  office automation solution,  designed   and  developed   by  NGEN. forKhyber Pakhtunkhwa  Tourism   Department   to seamlessly convert  physical documents  into digital formats. Tailored  to  streamline  and  automate   document-related processes within organizations, this  software empowers users to  effortlessly  create, manage, & track documents with efficiency & precision."
+    }
+  },
+  "contact_us":{
+    "title":"Contact Us",
+    "name":"Name",
+    "enter_name":"Enter Name",
+    "phone_no":"Phone No",
+    "enter_phone":"Enter Phone No",
+    "email":"Email",
+    "enter_email":"Enter Email",
+    "message":"Message",
+    "write_message":"Write your message here..",
+    "privacy_policy":"By sending this form I confirm that I have read and accept the Privacy Policy",
+     "submit":"Submit"
+  },
+  "cookies":{
+    "title":"We value your privacy",
+    "description":"We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking 'Accept All', you consent to our use of cookies.",
+    "customize":"Customize",
+    "reject":"Reject All",
+    "accept":"Accept All"
+  }
+ 
+}
